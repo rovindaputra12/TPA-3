@@ -1,0 +1,16 @@
+nav{
+    margin-bottom: 30px;
+    background-color: blue;
+}
+body {
+    background-color: red;
+}
+
+.card-body {
+    background-color: black;
+    color: #C0C0C0;
+}
+.navbar-brand {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 21px;
+}
